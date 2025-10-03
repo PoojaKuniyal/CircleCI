@@ -1,3 +1,4 @@
 venv/
 Circle_CI.egg-info/
 logs/
+gcp-key.json
